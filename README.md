@@ -5,11 +5,8 @@ This project was created for an assignment required by the course CSE 373 ("Desi
 # Features
 ### Input
 A text file should contain all info of students. Each line of this file should contain the id, name, credits_completed, and CGPA separated by tabs; e.g.  
-> 12345 Abid Raihan 30 3.4 
-26345 Hafiz Adnan 100 3.24 
-17345 Jakaria Ahmed 80 2.94 
-72845 Harun Yahia 100 3.84 
-23745 Jabid Hannan 80 3.47
+![](images/input.png)
+
 
 A number will be read from user, which defines the sorting algorithm desired. e.g. 
   - 1 for QuickSort
@@ -19,11 +16,7 @@ A number will be read from user, which defines the sorting algorithm desired. e.
 
 ### Output
 A text file will be created,  containing the student-records in sorted order; e.g. for the above input the output.txt should look like: 
-> 72845 Harun Yahia 100 3.84 
-26345 Hafiz Adnan 100 3.24 
-23745 Jabid Hannan 80 3.47 
-17345 Jakaria Ahmed 80 2.94 
-12345 Abid Raihan 30 3.4 
+![](images/output.png)
 
 It can be seen that the time taken to complete the sorting (in micro-second or milli-second) is shown in the console. 
 
