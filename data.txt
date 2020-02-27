@@ -1,0 +1,6 @@
+123456 Fardin Huda 100 3.5
+234567 Abdul Noman 110 3.8
+345678 Iriena Zellavic 100 3.9
+456789 Irene Mehnaz 90 2.5
+567890 James Stewardford 90 3.9
+678901 Jimmy Koogan 90 2.8
