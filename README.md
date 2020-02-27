@@ -5,6 +5,7 @@ This project was created for an assignment required by the course CSE 373 ("Desi
 # Features
 ### Input
 A text file should contain all info of students. Each line of this file should contain the id, name, credits_completed, and CGPA separated by tabs; e.g.  
+
 ![](images/input.png)
 
 
@@ -16,6 +17,7 @@ A number will be read from user, which defines the sorting algorithm desired. e.
 
 ### Output
 A text file will be created,  containing the student-records in sorted order; e.g. for the above input the output.txt should look like: 
+
 ![](images/output.png)
 
 It can be seen that the time taken to complete the sorting (in micro-second or milli-second) is shown in the console. 
